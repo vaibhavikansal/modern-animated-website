@@ -62,7 +62,7 @@ gsap.from("#about-us img,#about-us h3,#about-us p",{
     scrub:2
   }
 })
-gsap.from("#card-container .card", {
+gsap.from("#card-container ", {
   scale: 0.8,
   opacity: 0,
   duration: 1,
