@@ -1,0 +1,31 @@
+
+To ensure this website functions correctly, preinstall the following items on your laptop:
+
+1. Web Development Environment
+   - Text Editor or IDE (e.g., Visual Studio Code, Atom, Sublime Text) for editing HTML, CSS, and JavaScript.
+
+2. Node.js and npm
+   - Node.js and npm (Node Package Manager) are essential for managing JavaScript dependencies and running development servers.
+   - Download Node.js: https://nodejs.org/ (npm is included with the installation).
+
+3. Required Packages and Libraries
+   - locomotive-scroll: Used for smooth scrolling effects.
+     - Install via npm:
+       npm install locomotive-scroll
+     - Alternatively, include it in the HTML as shown:
+       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/locomotive-scroll@3.5.4/dist/locomotive-scroll.css">
+       <script src="https://cdn.jsdelivr.net/npm/locomotive-scroll@3.5.4/dist/locomotive-scroll.js"></script>
+
+4. Web Server
+   - You may use Live Server (an extension in Visual Studio Code) or lite-server (can be installed via npm):
+     npm install -g lite-server
+   - This enables real-time reloading while you make changes to the website files.
+
+5. Fonts and Media
+   - Ensure the font files are in the correct directory, as specified in the CSS file (e.g., Neue Haas Grotesk font).
+   - Any videos or images referenced in the HTML should also be stored locally or accessible via their URLs.
+
+6. Browser with Developer Tools
+   - Use Google Chrome or Firefox for testing, as these browsers have robust developer tools to inspect elements, console logs, and network requests.
+
+By setting up these tools and libraries, you'll have everything you need to edit, test, and run the website smoothly.
