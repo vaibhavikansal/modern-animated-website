@@ -42,8 +42,7 @@ This project is perfect for:
 Unlike traditional static websites, the **Sidcup Interactive Web Experience** is crafted with the intent to **immerse users in an engaging digital environment**. Every detail, from the way text appears to the way elements transition, is designed to feel natural, intuitive, and aesthetically pleasing.
 
 ## 🔗 Live Demo & Repository
-- **Live Demo:** [Coming Soon / Provide Link]
-- **GitHub Repository:** [Provide Link]
+- **Live Demo:** https://drive.google.com/file/d/1BQB6aIjCdNJxqL0zwruaXzSNIKFozLiy/view?usp=sharing
 
 ## 🏆 Conclusion
 The **Sidcup Interactive Web Experience** is a testament to the power of modern web technologies in crafting engaging, **design-centric** digital experiences. Whether you’re a developer, designer, or user who appreciates creative storytelling through web interfaces, this project offers a glimpse into the future of **interactive web design**.
